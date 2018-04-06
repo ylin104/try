@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="nav_pane_array">
+        <item>Jobs</item>
+        <item>New Job</item>
+        <item>Service List</item>
+        <item>Settings</item>
+    </string-array>
+
+</resources>

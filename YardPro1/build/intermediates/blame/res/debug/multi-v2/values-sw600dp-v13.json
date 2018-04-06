@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/xiaoxiannv/Downloads/YardPro1/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/xiaoxiannv/Downloads/YardPro1/src/main/res/values-sw600dp/template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "621",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "861"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "584",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "824"
+                    }
+                },
+                {
+                    "source": "/Users/xiaoxiannv/Downloads/YardPro1/src/main/res/values-sw600dp/template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "656,724",
+                        "endColumns": "67,67",
+                        "endOffsets": "719,787"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "393,461",
+                        "endColumns": "67,67",
+                        "endOffsets": "456,524"
+                    }
+                },
+                {
+                    "source": "/Users/xiaoxiannv/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.2.aar/7dc833f8ebc5968920dd305d1ef10eae/res/values-sw600dp/values.xml",
+                    "from": {
+                        "startLines": "3,4,5,6,7,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "56,126,196,255,326,395",
+                        "endColumns": "69,69,58,70,67,54",
+                        "endOffsets": "121,191,250,321,389,445"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,125,195,254,325,529",
+                        "endColumns": "69,69,58,70,67,54",
+                        "endOffsets": "120,190,249,320,388,579"
+                    }
+                }
+            ]
+        }
+    ]
+}
